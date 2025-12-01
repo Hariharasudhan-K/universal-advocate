@@ -1,6 +1,6 @@
 # Universal Advocate: AI Dispute Resolver 🛡️
 
-![Universal Advocate Banner](https://via.placeholder.com/1200x300?text=Universal+Advocate:+AI+Dispute+Resolver)
+![Universal Advocate Banner]()
 
 **Agents Intensive - Capstone Project Submission**
 *Track: Agents for Good / Concierge Agents*
@@ -69,3 +69,4 @@ streamlit run app.py
 
 ---
 *Project Status: Python AI Model License*
+
